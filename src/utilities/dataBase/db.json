@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9cf00483ff006bbe43f",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "age": "24",
+      "name": "May Cobb",
+      "email": "maycobb@artworlds.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9cfc600b32fb8537422",
+      "isActive": false,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "age": 21,
+      "name": "Delgado Anderson",
+      "email": "delgadoanderson@artworlds.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9cff38619c07c6e07cc",
+      "isActive": false,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "age": 28,
+      "name": "Mclean Day",
+      "email": "mcleanday@artworlds.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9cf8197688adab39315",
+      "isActive": false,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "age": 23,
+      "name": "Erna Kidd",
+      "email": "ernakidd@artworlds.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9cfd8c08946688afd73",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=6",
+      "age": "25",
+      "name": "Keisha Reese",
+      "email": "keishareese@artworlds.com",
+      "password": "12345"
+    },
+    {
+      "id": "5ea2b9cfabba647b266a66de",
+      "isActive": false,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=7",
+      "age": 32,
+      "name": "Oneill Clements",
+      "email": "oneillclements@artworlds.com",
+      "password": 12345
+    },
+    {
+      "name": "test",
+      "age": "12",
+      "email": "test@test.com",
+      "password": "12345",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "Ynzprnq"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "test",
+      "content": "nishto",
+      "authorId": "5ea2b9cf00483ff006bbe43f",
+      "authorName": "May Cobb",
+      "hours": "10",
+      "status": "Waiting for action",
+      "id": 1
+    },
+    {
+      "title": "test finish",
+      "content": "dsgsdgsdfg",
+      "authorId": "5ea2b9cf00483ff006bbe43f",
+      "authorName": "May Cobb",
+      "hours": "20",
+      "id": 2,
+      "status": "Finished"
+    },
+    {
+      "title": "testdgfdg",
+      "content": "fdgfd",
+      "authorId": "5ea2b9cf00483ff006bbe43f",
+      "authorName": "May Cobb",
+      "hours": "10",
+      "status": "Waiting for action",
+      "id": 3
+    },
+    {
+      "title": "last",
+      "content": "svcbvcxv",
+      "authorId": "5ea2b9cf00483ff006bbe43f",
+      "authorName": "May Cobb",
+      "hours": "32",
+      "status": "Waiting for action",
+      "id": 5
+    },
+    {
+      "title": "vsdf",
+      "content": "sdg",
+      "authorId": "Ynzprnq",
+      "authorName": "test",
+      "hours": "1",
+      "status": "Finished",
+      "id": 7
+    }
+  ]
+}
