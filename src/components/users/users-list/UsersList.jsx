@@ -22,7 +22,7 @@ export function UsersList() {
     }
 
     return (
-        <div className="users-list d-flex">
+        <div className="users-list d-flex flex-wrap">
             {users.filter(u => loggedUser && u.id !== loggedUser.id).map((user) => <UserCard user={user} key={user.id} onDelete={onUserDelete} />)}
         </div>
     );

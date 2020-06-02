@@ -62,13 +62,13 @@
     },
     {
       "name": "test",
-      "age": "12",
+      "age": "24",
       "email": "test@test.com",
       "password": "12345",
-      "isAdmin": false,
       "isActive": true,
+      "isAdmin": false,
       "picture": "https://picsum.photos/200/300?random=1",
-      "id": "Ynzprnq"
+      "id": "GoQEyzS"
     }
   ],
   "tasks": [
@@ -91,30 +91,39 @@
       "status": "Finished"
     },
     {
-      "title": "testdgfdg",
+      "title": "t",
       "content": "fdgfd",
       "authorId": "5ea2b9cf00483ff006bbe43f",
       "authorName": "May Cobb",
-      "hours": "10",
-      "status": "Waiting for action",
+      "hours": "20",
+      "status": "Finished",
       "id": 3
     },
     {
-      "title": "last",
-      "content": "svcbvcxv",
+      "title": "test",
+      "content": "sdfdsfdsf",
       "authorId": "5ea2b9cf00483ff006bbe43f",
       "authorName": "May Cobb",
-      "hours": "32",
+      "hours": "15",
       "status": "Waiting for action",
-      "id": 5
+      "id": 4
     },
     {
-      "title": "vsdf",
-      "content": "sdg",
-      "authorId": "Ynzprnq",
-      "authorName": "test",
-      "hours": "1",
+      "title": "dgfdfgfdg",
+      "content": "dfdgds",
+      "authorId": "5ea2b9cf00483ff006bbe43f",
+      "authorName": "May Cobb",
+      "hours": "45",
       "status": "Finished",
+      "id": 6
+    },
+    {
+      "title": "My First Post",
+      "content": "sdfsdgds",
+      "authorId": "GoQEyzS",
+      "authorName": "test",
+      "hours": "12",
+      "status": "Waiting for action",
       "id": 7
     }
   ]
